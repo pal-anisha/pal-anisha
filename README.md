@@ -3,6 +3,10 @@ Hi there, I'm Anisha Pal and I'm a frontend engineer with over 2 years of experi
 
 
 ## 🌐 Socials:
+<a href="https://www.linkedin.com/in/pal-anisha/">
+  <img align="left" alt="Tejas's LinkedIN" width="100px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />
+</a>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/pal-anisha/))
 
 # 💻 Tech Stack:
