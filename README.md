@@ -15,8 +15,6 @@ Hi there, I'm Anisha Pal and I'm a frontend engineer with over 2 years of experi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pal-anisha&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pal-anisha&layout=compact&theme=radical&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
