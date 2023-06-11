@@ -12,9 +12,6 @@ Hi there, I'm Anisha Pal and I'm a frontend engineer with over 2 years of experi
 ![](https://github-readme-stats.vercel.app/api?username=pal-anisha&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pal-anisha&theme=react&hide_border=false)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pal-anisha&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
